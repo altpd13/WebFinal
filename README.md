@@ -2,6 +2,10 @@
 
 First you need to set up a firebase App. 
 
+Go to [Google Firebase](https://firebase.google.com/) and click "Get Started".
+
+Start New Web Project.
+
 After set up make `.env.local` file put secerts in like below.
 
 ```bash
